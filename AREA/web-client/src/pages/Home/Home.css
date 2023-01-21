@@ -1,0 +1,10 @@
+.home-container {
+    text-align: center;
+    margin: 5rem;
+    color: rgb(103, 58, 183);
+}
+
+.home-title {
+    font-size: 4rem;
+    font-style: bold;
+}

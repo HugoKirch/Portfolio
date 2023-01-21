@@ -1,0 +1,10 @@
+.new_title {
+    color: white,
+    background: rgb(103, 58, 183),
+    border: 0.0625rem solid rgba(144, 202, 249, 0.46),
+    border-radius: 23px,
+    padding: 1rem,
+    margin: 0rem,
+    margin-bottom: 2rem,
+    text-align: center,
+  }
